@@ -1,2 +1,2 @@
 FROM k8s.gcr.io/defaultbackend:1.4
-MAINTAINER shunjianni <shunjianni@gmail.com>
+MAINTAINER  shunjianni <shunjianni@gmail.com>
